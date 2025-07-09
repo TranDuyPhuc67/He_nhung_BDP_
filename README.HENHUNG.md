@@ -10,7 +10,9 @@ __Sản phẩm:__
 3. Giao diện xem nội dung và chỉnh sửa file
 - Ảnh chụp minh họa:\
   ![Ảnh minh họa](sp1.png)
+  
   ![Ảnh minh họa](sp2.png)
+  
   ![Ảnh minh họa](sp3.png)
 ## TÁC GIẢ
 
