@@ -139,5 +139,5 @@ _Mô tả các thành phần phần cứng và vai trò của chúng:
   
 ### KẾT QUẢ
 
-- Các ảnh chụp với caption giải thích.
-- Hoặc video sản phẩm
+👉 [Xem video kết quả](https://drive.google.com/uc?export=preview&id=1hFZB-HULwBDwqMSNlD8-usERkxRHlSB2)
+
