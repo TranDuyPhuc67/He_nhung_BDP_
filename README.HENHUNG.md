@@ -21,8 +21,8 @@ __Sản phẩm:__
   |STT|Họ tên|MSSV|Công việc|
   |--:|--|--|--|
   |1|Trần Duy Phúc|20225378|Lấy thiết bị, làm báo cáo|
-  |2|Trịnh Văn Bin|20215530|Lắp mạch|
-  |3|Nguyễn Việt Dũng|20210227|Viết code|
+  |2|Trịnh Văn Bin|20215530|Lắp mạch, chạy code|
+  |3|Nguyễn Việt Dũng|20210227|Lắp mạch, chạy code|
 ## MÔI TRƯỜNG HOẠT ĐỘNG
 _Liệt kê module CPU/dev kit.
 | Thiết bị                                    | Mô tả                                                                                                                                                                                               |
