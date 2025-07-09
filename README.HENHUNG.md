@@ -9,7 +9,7 @@ __Sản phẩm:__
 2. Giao diện ghi file mới
 3. Giao diện xem nội dung và chỉnh sửa file
 - Ảnh chụp minh họa:\
-  ![Ảnh minh họa](https://soict.hust.edu.vn/wp-content/uploads/logo-soict-hust-1-1024x416.png)
+  ![Ảnh minh họa](hình ảnh.png)
   ![Ảnh minh họa](https://soict.hust.edu.vn/wp-content/uploads/logo-soict-hust-1-1024x416.png)
   ![Ảnh minh họa](https://soict.hust.edu.vn/wp-content/uploads/logo-soict-hust-1-1024x416.png)
 ## TÁC GIẢ
