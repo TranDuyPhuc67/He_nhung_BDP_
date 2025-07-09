@@ -5,12 +5,13 @@
 __Đề bài__: _SD card reader._
 
 __Sản phẩm:__
-1. Tính năng
-2. Tính năng
-3. Tính năng
+1. Hiển thị danh sách file được ghi trên thẻ, có nút để xóa file
+2. Giao diện ghi file mới
+3. Giao diện xem nội dung và chỉnh sửa file
 - Ảnh chụp minh họa:\
   ![Ảnh minh họa](https://soict.hust.edu.vn/wp-content/uploads/logo-soict-hust-1-1024x416.png)
-
+  ![Ảnh minh họa](https://soict.hust.edu.vn/wp-content/uploads/logo-soict-hust-1-1024x416.png)
+  ![Ảnh minh họa](https://soict.hust.edu.vn/wp-content/uploads/logo-soict-hust-1-1024x416.png)
 ## TÁC GIẢ
 
 - Tên nhóm: BDP
