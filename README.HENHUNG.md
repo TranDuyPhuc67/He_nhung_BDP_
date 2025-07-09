@@ -36,7 +36,7 @@ _Liệt kê các kit, module được sử dụng:
 | **Module thẻ nhớ OKY3001**                    | Giao tiếp với thẻ **microSD** và chuyển đổi tín hiệu SPI giữa ESP32 và thẻ nhớ.         | SPI                        |
 | **Thẻ nhớ microSD (4GB–16GB, Class 10)**      | Thiết bị **lưu trữ dữ liệu**: ghi và đọc các file do người dùng tạo trên web.           | Cắm vào module OKY3001     |
 | **Cáp USB–MicroUSB**                          | Dùng để **nạp chương trình** và **quan sát log UART** từ ESP32 lên máy tính.            | UART (qua chip chuyển USB) |
-| **PC/Laptop hoặc Điện thoại**                 | Thiết bị **máy trạm**, truy cập vào Web Server do ESP32 tạo ra để tương tác với thẻ SD. | WiFi (HTTP)                |
+| **PC/Laptop**                 | Thiết bị **máy trạm**, truy cập vào Web Server do ESP32 tạo ra để tương tác với thẻ SD. | WiFi (HTTP)                |
 
 
 ## SO ĐỒ SCHEMATIC
