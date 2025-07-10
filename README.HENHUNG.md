@@ -95,6 +95,16 @@ _Mô tả các thành phần phần cứng và vai trò của chúng:
      */
     void handleWriteFile();
 
+    /**
+     *  Xử lý việc tải file từ trình duyệt lên thẻ nhớ SD.
+     *  - Khi người dùng chọn file và nhấn "Upload" trên giao diện web, trình duyệt sẽ gửi dữ liệu qua HTTP POST.
+     *  - Hàm này sẽ lắng nghe quá trình upload, tạo file mới trên thẻ nhớ, và ghi dữ liệu dần vào file.
+     *
+     *  @note Yêu cầu form HTML có thuộc tính: `enctype='multipart/form-data'`
+     *  @attention Phải khai báo biến `uploadFile` kiểu `File` ở phạm vi toàn cục.
+     */
+    void handleFileUpload();
+
 
    /**
      *  Hàm xử lý yêu cầu xem nội dung file từ thẻ nhớ SD.
